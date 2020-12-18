@@ -1,4 +1,4 @@
-# Modified just-the-docs jekyll theme for UBC Research Clommons sites
+# Modified just-the-docs jekyll theme for UBC Research Commons sites
 Fork of Patrick Marsceill's [Just the Docs](https://github.com/pmarsceill/just-the-docs) jekyll theme. The files below were added or changed for the UBC Library Research Commons implementation.
 
 - ` _layouts/default.html`. Modified to point to `footer_rc.html` file and to simplify behaviour of the "View in Github" footer link. Do not over-write when pulling changes from upstream. 
